@@ -3,14 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=81a1c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Neves;I'm+19+years+old;I+am+from+São+Paulo,+Brazil;I+study+Analysis+and+Systems+Development+at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Neveszera&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="Neveszera github stats" /> 
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neveszera&count_private=true&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabneves&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="gabneves github stats" /> 
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabneves&count_private=true&layout=compact&hide_border=true&title_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-![snake animation](https://github.com/Neveszera/Neveszera/raw/output/snake.svg)
+![snake animation](https://github.com/gabneves/gabneves/raw/output/snake.svg)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Neveszera&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gabneves&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div align="center"> 
