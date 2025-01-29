@@ -1,6 +1,7 @@
 <img width=100% text="" src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=81a1c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Neves;I'm+19+years+old;I+am+from+São+Paulo,+Brazil;+Graduated+in+Analysis+and+Systems+Development+at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=81a1c1&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Neves;I'm+19+years+old;I+am+from+São+Paulo,+Brazil;Graduated+in+Analysis+and+Systems+Development;at+FIAP;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 <div align="center">  
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=gabneves&show_icons=true&count_private=true&hide_border=true&title_color=81a1c1&icon_color=81a1c1&text_color=c9d1d9&bg_color=0d1117" alt="gabneves github stats" /> 
